@@ -20,6 +20,10 @@ html{
 .nav_style a{
   color: white;
 }
+.banner-text{
+  line-height: 73px;
+  font-weight: 500;
+}
 
 .main_header{
   height: 450px;
